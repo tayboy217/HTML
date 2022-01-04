@@ -6,7 +6,7 @@
 世界で初めてのWebサイト→「World Wide Web」
 2. 改行・区切り線
 3. リスト・入れ子になったリスト・説明リスト
-4. 属性と画像の表示・リンク
+4. 属性と画像の表示・リンク<br>
 a href"link_url", img src"url"
 5. 著作権表記<br>
 &copy; 2022 Taichi Niina
